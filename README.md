@@ -1,7 +1,8 @@
 # Create a Fullstack Counter Dapp on the Polygon zkEVM Testnet
 
 - Walk through the instructions in this README (main branch) to build a Counter dapp and deploy to the Polgon zkEVM testnet.
-- Check out the completed code branch here: https://github.com/oceans404/fullstack-zkevm/tree/complete
+- Check out the completed code branch here: https://github.com/ABK-ReuRana/fullstack-zkevm.git
+
 
 ## General Setup
 
