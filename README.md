@@ -5,12 +5,10 @@
 
 ## General Setup
 
-- add the Polygon zkEVM Testnet Network to your Metamask Networks: https://www.youtube.com/watch?v=Y1gOkTsXgSY
-- Get some zkEVM testnet ETH: https://www.youtube.com/watch?v=eYZAPkTCgwg
+- add the Polygon zkEVM Testnet Network to your Metamask Networks
+- Get some zkEVM testnet ETH
 
-Star this repo and clone it locally
-```shell
-git clone https://github.com/oceans404/fullstack-zkevm
+
 ```
 
 Install dependencies and start react app
